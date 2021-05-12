@@ -8,4 +8,4 @@
 Source: https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-using
 
 ## how to use script:
-./post_message_to_teams_channel.sh "<title>" "<message>"
+./post_message_to_teams_channel.sh "title" "message"
