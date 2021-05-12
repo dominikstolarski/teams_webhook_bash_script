@@ -8,4 +8,7 @@
 Source: https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-using
 
 ## how to use script:
+Open the script and replace variable WEBHOOK_URL with your own URL. 
+
+That's it! You can now run it.
 ./post_message_to_teams_channel.sh "title" "message"
